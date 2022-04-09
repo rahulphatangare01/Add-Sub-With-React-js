@@ -1,0 +1,17 @@
+.Practise h2{
+    color: rgb(233, 17, 215);
+
+}
+body {
+    text-align: center;
+    background-color: rgb(28, 97, 102);
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
